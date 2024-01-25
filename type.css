@@ -1,0 +1,104 @@
+.shdow{
+    font-family: Roboto Mono;
+    font-size: 40px;
+    text-shadow: 0px 5px purple;
+}
+
+header .container{
+    margin: 49px 200px;
+    width: 5000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav{
+    display: flex;
+    gap: 70px;
+}
+
+.img{
+    width: 677px;
+    height: 626px;
+}
+
+main{
+    margin: 15px 200px;
+    display: flex;
+    gap: 100px;
+}
+
+.box{
+    border-radius: 5px;
+    box-shadow: 0px 8px 30px 5px lime;
+    width: 164px;
+    height: 164px;
+}
+
+.box1{
+    border-radius: 5px;
+    box-shadow: 0px 8px 30px 5px gainsboro;
+    width: 164px;
+    height: 164px;
+}
+
+.boxes{
+    display: flex;
+    gap: 67px;
+    width: 1222px;
+    flex-direction: column;
+}
+
+.box2{
+    border-radius: 5px;
+    box-shadow: 2px 2px 0px 0px gainsboro;
+    width: 164px;
+    height: 164px;
+}
+
+.box3{
+    border-radius: 5px;
+    box-shadow: 0px 5px 12px 5px rgba(0, 0, 0, 0.350);
+    width: 164px;
+    height: 164px;
+}
+
+.box4{
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.670);
+    width: 164px;
+    height: 164px;
+}
+
+.a{
+    display: flex;
+    gap: 119px;
+}
+
+.box5{
+    border-radius: 5px;
+    box-shadow: 0px 3px 5px 4px red;
+    width: 164px;
+    height: 164px;
+}
+
+.box6{
+    border-radius: 5px;
+    box-shadow: 0px 8px 20px 12px rgba(114, 198, 226, 0.920);
+    width: 164px;
+    height: 164px;
+}
+
+.box7{
+    border-radius: 5px;
+    box-shadow: 0px 7px 20px 18px rgba(128, 128, 128, 0.660);
+    width: 164px;
+    height: 164px;
+}
+
+.box8{
+    border-radius: 5px;
+    box-shadow: 2px 2px 0px 0px gainsboro;
+    width: 164px;
+    height: 164px;
+}
